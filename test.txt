@@ -1,0 +1,29 @@
+A + B
+10+0.554
+*
+if
+1a
+then
+id1
+id2
+id1
+1
+-12
+01
+1_A
+int
+    0.1
+    -0.1
+                    "Hello World"
+/* comment */
+/**/
+(kuy)
+//sadsadasd
+01.22
+12.2
+12.222222222222
+-#+*
+True
+true
+a@#01
+#
